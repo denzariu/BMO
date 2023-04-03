@@ -6,6 +6,9 @@ BMO is a friendly voice assistant with multiple functionalities: informative (ti
 <img align="center" src="https://user-images.githubusercontent.com/40743579/215350748-1658ca14-fef1-43d6-b747-477a950687ec.gif" height="540" alt="">
 </p>
 
+## Disclaimer
+This project was not made with the intention of being public, it will definitely be incompatible with your RPi because most paths are not relative. I will not try to rework the project into a repo-friendly package, as it is intended to only be a showcase.
+
 ## Temporary Description
 This project came as a response to the need of people to feel close to other members of their community, a need that is amplified by the choice of spending free time using various technologies which are created around an utilitarian philosophy. This project changes the approach from common technological means that give the feeling of dispassionate interaction to offering a friendly, more endearing, alternative experience. However, the realized project does not aim to replace the social needs of an individual, but only to reimagine the concepts of interaction with the user, with emphasis on his experience.
 
@@ -21,4 +24,22 @@ This project came as a response to the need of people to feel close to other mem
 
 ## Features
 
-- TODO: Document each feature.
+#### Color Themes
+#### Assistant Voice Change
+#### Touch Input Keyboard UI
+#### JoyCon Autoconnect (Bluetooth)
+#### WiFi Autoconnect (by SSID & Password)
+#### Assistant Emotion-based UI
+
+#### Speech to Text | Text to Speech
+#### Wikipedia Search and Describe
+#### Translations
+#### Time / Date / Weather
+#### Reddit Read Posts | Image Posts
+#### Can Run DOOM
+#### Youtube Music Player with Sound Visualizer
+#### Math
+#### Write / Read Notes
+#### Info about Current Cases of Corona by Country (kind of deprecated)
+#### Bad Jokes
+#### ...
